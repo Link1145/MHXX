@@ -1,4 +1,4 @@
-# mhxx+gu
+# MHXX+GU
 怪物猎人XX+GU的资料库
 
 ## 说明
@@ -77,6 +77,6 @@
 * [Fir.im](https://fir.im/v4hr)
 * [Github](https://github.com/jestar719/mhgu/releases)
 * [百度网盘](https://pan.baidu.com/s/18NuZxmRKjrsLmVPXIHyGTw) 密码：5iqt
-
+* [百度网盘（新）](https://pan.baidu.com/s/1PFQ8C9gTOOHVlIzBHRtLUg?pwd=mhxx) 密码：mhxx
 
 有问题或建议请发[Email](jestar719@gmail.com)
